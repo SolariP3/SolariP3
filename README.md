@@ -1,6 +1,6 @@
 ### Olá eu sou o Lucas Almeida Santos
 
-☀️ Eu sou u mprogramador-junior e busco me expecializar nessa área porque me interesso muito pela programação
+☀️ Eu sou um programador-junior e busco me expecializar nessa área porque me interesso muito pela programação
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolariP3)](https://github.com/SolariP3/github-readme-stats)
 
